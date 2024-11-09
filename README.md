@@ -19,11 +19,13 @@ Para ejecutar los scripts en el orden adecuado, sigue estos pasos:
 
  ```r
  source("workflows/501_run_workflow_conceptual.r")
+ ```
 
 2. Una vez completado el primer paso, ejecuta el segundo script:
 
  ```r
 source("workflows/519_workflow_base_f202109_conc.r")
+ ```
 
 
 ## Descripción de los Scripts
