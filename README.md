@@ -1,6 +1,6 @@
 # Tratando el desbalanceo en LightGBM
 
-Descripción breve del proyecto, indicando su propósito y lo que el usuario puede lograr al ejecutarlo.
+En este experimento, aplicamos técnicas avanzadas de minería de datos para resolver problemas de Machine Learning, abordando el desbalance de clases. En estos datos, ciertos eventos son mucho más frecuentes que otros, lo cual puede llevar a que los modelos de aprendizaje automático favorezcan las clases mayoritarias y desestimen las minoritarias. Para enfrentar este desafío, utilizamos LightGBM y ajustamos tres parámetros clave: scale_pos_weight, neg_bagging_fraction e is_unbalance.
 
 ## Requisitos previos
 
